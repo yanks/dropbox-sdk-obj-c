@@ -1135,29 +1135,29 @@ In addition, you should note that the information below only identifies Dropbox�
 
 | Data                    | Collected by Dropbox                                                      | Data Use                                                                 | Data Linked to the User | Tracking |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------- | -------- |
-| **Contact Info**        |                                                                           |                                                                          |                         |          |
-| • Name                  | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| • Email Address         | May be collected<br>(if you enable authentication using an email address) | • Application functionality                                              | Y                       | N        |
-| **Health & Fitness**    | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **Financial Info**      | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **Location**            | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **Sensitive Info**      | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **Contacts**            | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **User Content**        |                                                                           |                                                                          |                         |          |
-| • Audio Data            | May be collected                                                          | • Application functionality                                              | Y                       | N        |
-| • Photos or Videos      | May be collected                                                          | • Application functionality                                              | Y                       | N        |
-| • Other User Content    | May be collected                                                          | • Application functionality                                              | Y                       | N        |
-| **Browsing History**    | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **Search History**      |                                                                           |                                                                          |                         |          |
-| • Search History        | May be collected<br>(if using search functionality)                       | • Application functionality<br>- Analytics                               | Y                       | N        |
-| **Identifiers**         |                                                                           |                                                                          |                         |          |
-| • User ID               | Collected                                                                 | • Application functionality<br>- Analytics                               | Y                       | N        |
-| **Purchases**           | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
-| **Usage Data**          |                                                                           |                                                                          |                         |          |
-| • Product Interaction   | Collected                                                                 | • Application functionality <br>- Analytics<br>- Product personalization | Y                       | N        |
-| **Diagnostics**         |                                                                           |                                                                          |                         |          |
-| • Other Diagnostic Data | Collected<br>(API call logs)                                              | • Application functionality                                              | Y                       | N        |
-| **Other Data**          | N/A                                                                       | N/A                                                                      | N/A                     | N/A      |
+| *Contact Info*        |                                                                           |                                                                          |                         |          |
+| &emsp; Name                  | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| &emsp;Email Address         | May be collected<br>(if you enable authentication using an email address) | Application functionality                                              | Y                       | N        |
+| *Health & Fitness*    | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *Financial Info*      | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *Location*            | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *Sensitive Info*      | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *Contacts*            | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *User Content*        |                                                                           |                                                                          |                         |          |
+| &emsp;Audio Data            | May be collected                                                          | • Application functionality                                              | Y                       | N        |
+| &emsp;Photos or Videos      | May be collected                                                          | • Application functionality                                              | Y                       | N        |
+| &emsp;Other User Content    | May be collected                                                          | • Application functionality                                              | Y                       | N        |
+| *Browsing History*    | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *Search History*      |                                                                           |                                                                          |                         |          |
+| &emsp;Search History        | May be collected<br>(if using search functionality)                       | • Application functionality<br>• Analytics                               | Y                       | N        |
+| *Identifiers*         |                                                                           |                                                                          |                         |          |
+| &emsp;User ID               | Collected                                                                 | • Application functionality<br>• Analytics                               | Y                       | N        |
+| *Purchases*           | Not collected                                                             | N/A                                                                      | N/A                     | N/A      |
+| *Usage Data*          |                                                                           |                                                                          |                         |          |
+| &emsp;Product Interaction   | Collected                                                                 | • Application functionality <br>• Analytics<br>• Product personalization | Y                       | N        |
+| *Diagnostics*         |                                                                           |                                                                          |                         |          |
+| &emsp;Other Diagnostic Data | Collected<br>(API call logs)                                              | • Application functionality                                              | Y                       | N        |
+| *Other Data*          | N/A                                                                       | N/A                                                                      | N/A                     | N/A      |
 
 
 
